@@ -1,6 +1,6 @@
 # work-day-scheduler
 
-This day work-day scheduler was designed to be easily modified & accessed by the user. 
+This work-day scheduler was designed to be easily modified & accessed by the user. 
 
 The current date is displayed at the top of the page, and the timeblocks are color-coded for the time of the day (red for current hour, grey for the hours that have already past, and green for the future.) Too add an entry to the planner, all you need to do is click the corresponding save button. If you need to leave the page, your schedule will still appear when the page is accessed again. In order to overwrite, you can simply write a new entry and save.
 
